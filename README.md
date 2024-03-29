@@ -2,7 +2,7 @@
 
 Esse repositório contem todo o conhecimento adquirido e praticado durante a semana de imersão python da Alura
 
-## 1º Dia: Análise Exploratória com Google Sheets
+## 1º Aula: Análise Exploratória com Google Sheets
 
 - Analise Exploratória ([AED](https://ebaconline.com.br/blog/analise-exploratoria-de-dados-o-que-e#:~:text=O%20que%20é%20Análise%20Exploratória,e%20extrai%20conhecimento%20desses%20dados.)): É um processo importante do trabalho do cientista de dados porque é a partir dela que o cientista de dados vai obtendo insights e coletando informações que vão alimentar os modelos de machine learning.
 - [Planilha utilizada](https://docs.google.com/spreadsheets/d/1JSPdWWxoG28Mn5PSRDucq6Nol_TlkceexIbvWOkkClc/edit?usp=sharing)
@@ -18,7 +18,7 @@ Esse repositório contem todo o conhecimento adquirido e praticado durante a sem
     - Tem como formatar os valores da planilha para valores contabilizaveis, como o real (R$)
     - Como usar a condicional [IF/SE()](https://support.microsoft.com/pt-br/office/usar-as-funções-se-com-e-ou-e-não-d895f58c-b36c-419e-b1f2-5c193a236d97)
 
-## 2º Dia: Gráficos e Análises com Google Colab e Python Pandas
+## 2º Aula: Gráficos e Análises com Google Colab e Python Pandas
 
 ### Continuando com Excel
 
@@ -44,8 +44,15 @@ Esse repositório contem todo o conhecimento adquirido e praticado durante a sem
     - Ele usa o ChatGPT para criar informações
     - Um exemplo de comando seria: '= GPTLIST('Qualquer ideia de lista que você quiser')'
 
-## 3º Dia: Manipulação de Dados e Criação de Gráficos com bibliotecas Python
+## 3º Aula: Manipulação de Dados e Criação de Gráficos com bibliotecas Python
 
 - Nessa aula aprendemos como criar tabelas iguais as do Excel, mas usando a linguagem Python e a biblioteca Python
 - Explicações da função [merge](https://medium.com/data-hackers/pandas-combinando-data-frames-com-merge-e-concat-10e7d07ca5ec)
 - E no código python, tem comentários sobre as outras funções sendo utilizadas
+
+## 4º Aula: Análises Avançadas de Ações e Gráficos de Velas
+
+- [Compilador](https://onecompiler.com) online para várias linguagens diferentes
+- Nessa aula foi explicado como criar uma gráfico usando a biblioteca Matplotlib, com os dados da API da bibiloteca yfinance
+- [Código exemplo](/python/aula4.ipynb)
+- O que são [tuplas](https://chat.openai.com/share/1614551f-f197-45f3-9cd8-2cbef1905d2d) em Python
