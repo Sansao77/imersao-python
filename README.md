@@ -43,3 +43,9 @@ Esse repositório contem todo o conhecimento adquirido e praticado durante a sem
 - [SheetGPT](https://sheetgpt.ai), extensão de IA para o Google Sheets.
     - Ele usa o ChatGPT para criar informações
     - Um exemplo de comando seria: '= GPTLIST('Qualquer ideia de lista que você quiser')'
+
+## 3º Dia: Manipulação de Dados e Criação de Gráficos com bibliotecas Python
+
+- Nessa aula aprendemos como criar tabelas iguais as do Excel, mas usando a linguagem Python e a biblioteca Python
+- Explicações da função [merge](https://medium.com/data-hackers/pandas-combinando-data-frames-com-merge-e-concat-10e7d07ca5ec)
+- E no código python, tem comentários sobre as outras funções sendo utilizadas
