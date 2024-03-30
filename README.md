@@ -1,6 +1,6 @@
 # Imersão Python - Do Excel à Análise de Dados (Alura)
 
-Esse repositório contem todo o conhecimento adquirido e praticado durante a semana de imersão python da Alura
+Esse repositório contem todo o conhecimento adquirido e praticado durante a semana de imersão python da [Alura](https://www.alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=386166608&hsa_grp=21666755648&hsa_ad=609948692827&hsa_src=g&hsa_tgt=aud-546438175126:kwd-300088401&hsa_kw=alura&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw8J6wBhDXARIsAPo7QA_4QoWoSVWiXODbOyOFikcljl_pVHze-HbwkOTAL00phiVa_9r5kX0aAlLtEALw_wcB)
 
 ## 1º Aula: Análise Exploratória com Google Sheets
 
@@ -56,3 +56,11 @@ Esse repositório contem todo o conhecimento adquirido e praticado durante a sem
 - Nessa aula foi explicado como criar uma gráfico usando a biblioteca Matplotlib, com os dados da API da bibiloteca yfinance
 - [Código exemplo](/python/aula4.ipynb)
 - O que são [tuplas](https://chat.openai.com/share/1614551f-f197-45f3-9cd8-2cbef1905d2d) em Python
+
+## 5º Aula: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
+
+- Nessa aula foi utilizado a biblioteca prophet (Prophet) para trabalhar com series temporais, que são conjunto de informações/observações avaliadas ao longo do tempo
+- Foram abordados assuntos sobre maching learning, sendo estes artigos utilizados para aprofundar o assunto:  
+    - [O que é Maching Learning?](https://www.alura.com.br/artigos/machine-learning?_gl=1*1uknx2h*_ga*MjU0MjA0MzAzLjE3MDQ4MTMzMjI.*_ga_1EPWSW3PCS*MTcxMTgwNjc0Ni40Mi4wLjE3MTE4MDY3NDYuMC4wLjA.*_fplc*aGNoJTJCQzRFQXQ3WTJOUTVFNzMlMkJpTzUyVzlaSGduJTJCRnlqJTJCczBWcjJwRzZKUjJGelFkNVBOeERZcHJVMzdzc21VRUhqdkpGM2IxcGJjTlRlbEx3MWlRS3M0djlGN1pUNFBYRkRNc0hMTFFTVDZPQ3JyZng1SVRFMUxQRWhDN2clM0QlM0Q.)
+    - [Desmistificando termos em Machine Learning](https://www.alura.com.br/artigos/desmistificando-termos-machine-learning?_gl=1*u0q3zp*_ga*MjU0MjA0MzAzLjE3MDQ4MTMzMjI.*_ga_1EPWSW3PCS*MTcxMTgwNjc0Ni40Mi4xLjE3MTE4MDY4MjkuMC4wLjA.*_fplc*aGNoJTJCQzRFQXQ3WTJOUTVFNzMlMkJpTzUyVzlaSGduJTJCRnlqJTJCczBWcjJwRzZKUjJGelFkNVBOeERZcHJVMzdzc21VRUhqdkpGM2IxcGJjTlRlbEx3MWlRS3M0djlGN1pUNFBYRkRNc0hMTFFTVDZPQ3JyZng1SVRFMUxQRWhDN2clM0QlM0Q.)
+    - [Os 4 tipos de aprendizagem na IA](https://www.alura.com.br/artigos/quais-sao-tipos-aprendizagem-ia-inteligencia-artificial?_gl=1*1ykiyy*_ga*MjU0MjA0MzAzLjE3MDQ4MTMzMjI.*_ga_1EPWSW3PCS*MTcxMTgwNjc0Ni40Mi4xLjE3MTE4MDY4MzcuMC4wLjA.*_fplc*aGNoJTJCQzRFQXQ3WTJOUTVFNzMlMkJpTzUyVzlaSGduJTJCRnlqJTJCczBWcjJwRzZKUjJGelFkNVBOeERZcHJVMzdzc21VRUhqdkpGM2IxcGJjTlRlbEx3MWlRS3M0djlGN1pUNFBYRkRNc0hMTFFTVDZPQ3JyZng1SVRFMUxQRWhDN2clM0QlM0Q.)
